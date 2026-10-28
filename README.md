@@ -2,7 +2,7 @@
 
 Staff Software Engineer / Mobile Architect with **15+ years of
 experience** designing, building, and leading Android, iOS, and Flutter
-applications across government, enterprise, and financial domains.
+applications across government digital transformation of the cities, enterprise, and financial banking, health care, enterprise HRMS, Sports, Embedded, AI domains.
 
 -   🏗️ **Mobile architecture & system design:** Scalable, maintainable,
     secure, and high-performance mobile applications.
