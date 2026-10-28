@@ -33,16 +33,52 @@ practices**.
 
 ### 📱 Mobile Development
 
+#### 🤖 Android Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+- Android SDK, Kotlin, Java, Android Jetpack and Jetpack Compose
+- XML layouts, Material Design and custom UI components
+- MVVM, MVI, Clean Architecture and modular application architecture
+- Kotlin Coroutines, Flow, Dependency Injection and Hilt
+- Room, SQLite, DataStore, WorkManager and Paging
+- Retrofit, OkHttp, Ktor, REST APIs, GraphQL and WebSockets
+- Android security, ProGuard, R8, SQLCipher and TLS/SSL pinning
+- Unit testing, UI testing, profiling, memory management and performance optimization
+
+#### 🍎 iOS Development
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+- Swift, SwiftUI, UIKit and iOS SDK
+- iOS application architecture, MVVM and modular design
+- Combine, async/await and structured concurrency
+- Core Data, SwiftData, UserDefaults and Keychain
+- URLSession, REST APIs, GraphQL and networking
+- Auto Layout, accessibility, adaptive layouts and responsive UI
+- Push notifications, deep linking and universal links
+- iOS security, data protection, certificate pinning and secure storage
+- XCTest, XCUITest, debugging, Instruments and performance profiling
+- App Store deployment, provisioning profiles, certificates and signing
+
+#### 🦋 Cross-Platform Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Jetpack
-Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Kotlin
-Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+- Flutter, Dart, BLoC, Provider and Riverpod
+- Kotlin Multiplatform (KMP) and shared business logic
+- Compose Multiplatform and cross-platform UI architecture
+- React Native and JavaScript/TypeScript
+- Platform channels, native SDK integration and reusable components
+- Cross-platform architecture, state management and performance optimization
+- Shared networking, persistence, authentication and API integration
 
 ### 🏛️ Architecture & Engineering
 
@@ -86,16 +122,76 @@ Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badg
     API integration
 -   BLE, Bluetooth protocols, and embedded-device interaction
 
-### 🛠️ Tools & Delivery
+## 🛠️ Tools, AI Engineering & Delivery
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Android
-Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+### 🤖 AI Tools & Coding Assistants
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windsurf-0B9A8A?style=for-the-badge&logo=codeium&logoColor=white" />
+  <img src="https://img.shields.io/badge/JetBrains_AI-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Q_Developer-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sourcegraph_Cody-000000?style=for-the-badge&logo=sourcegraph&logoColor=white" />
+</p>
+
+### 💻 IDEs & Developer Environments
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 🧠 AI Agents, LLMs & Automation
+<p>
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/ n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_API-D97757?style=for-the-badge" />
+</p>
+
+**AI-assisted engineering:** AI-powered code generation, refactoring, debugging, test generation, code reviews, documentation, repository analysis, agentic workflows, prompt engineering, tool integration, and developer productivity automation.
+
+### 🔄 Version Control, CI/CD & Delivery
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase_App_Distribution-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
+
+### 🧪 Quality, Testing & Code Analysis
+<p>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/MockK-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XCTest-147EFB?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Espresso-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Detekt-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### 📋 Collaboration & Engineering Management
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atlassian_Rovo-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />
+</p>
 
 Additional tools and technologies: IntelliJ IDEA, GitLab, App Center,
 Checkmarx, JFrog, SQLite, PostgreSQL, MySQL, MariaDB, Figma, Lottie,
